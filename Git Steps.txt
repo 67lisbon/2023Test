@@ -1,0 +1,8 @@
+Integrate VS code with git (only need to do this once)
+Make changes to the file in VS code and sacve
+git status
+git add .
+git commit -m "add message here"
+git push -u origin master
+Check file has been changed on youur branch in github
+
