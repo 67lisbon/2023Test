@@ -6,3 +6,13 @@ git commit -m "add message here"
 git push -u origin master
 Check file has been changed on youur branch in github
 
+
+**New branch**
+
+To create a new local branch, do:
+
+git branch <branch-name>
+To push it to the remote repository, do:
+
+git push -u origin <branch-name
+
